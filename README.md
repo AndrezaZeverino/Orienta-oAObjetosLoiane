@@ -43,6 +43,8 @@ van.consumoCombustivel = 0.15;
 
 número randômico: Número aleatório; pesquisando por random number generator dá para gerar através do google esse número. 
 
+Exercícios: http://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-24
+
 
 
 
