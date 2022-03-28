@@ -23,16 +23,26 @@ Através da declaração das classes conseguimos dar a vida a objetos.
 
 Criação dos Objetos:
 
-exemplo: 
+New: de criação.
 
-Carro van = new Carro();
-van.marca = "Fiat;
+exemplos: 
+
+Carro van = new Carro();          
+van.marca = "Fiat";
 van.modelo = "Ducato";
 van.numPassageiros = 10;
 van.capCombustivel = 100;
 van.consumoCombustivel = 0.2;
 
+Carro fusca = new Carro();          
+van.marca = "Volkswagen";
+van.modelo = "Fusca";
+van.numPassageiros = 4;
+van.capCombustivel = 30;
+van.consumoCombustivel = 0.15;
+
 número randômico: Número aleatório; pesquisando por random number generator dá para gerar através do google esse número. 
+
 
 
 
